@@ -1,0 +1,16 @@
+[
+    {
+        "id": 80028,
+        "name": "Qiuhua",
+        "displayName": "秋桦",
+        "weaponType": "",
+        "element": "GirlsFrontline",
+        "gender": "Female",
+        "region": "",
+        "rarity": 5,
+        "directory": "chars/Qiuhua",
+        "image": "Covers/Qiuhua_base.png",
+        "pmx": "base/GirlsFrontline QiuhuaDefault.pmx",
+        "base": "https://carlutic.github.io/girl_frontline7/"
+    }
+]

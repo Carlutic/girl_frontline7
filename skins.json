@@ -1,0 +1,58 @@
+[
+    {
+        "id": 80222,
+        "name": "Qiuhua",
+        "displayName": "秋桦（兔女郎）",
+        "weaponType": "",
+        "element": "GirlsFrontline",
+        "gender": "Female",
+        "region": "",
+        "rarity": 5,
+        "directory": "chars/Qiuhua",
+        "image": "Covers/Qiuhua_v01.png",
+        "pmx": "v01/GirlsFrontline QiuhuaSSR0103.pmx",
+        "base": "https://carlutic.github.io/girl_frontline7/"
+    },
+    {
+        "id": 80223,
+        "name": "Qiuhua",
+        "displayName": "秋桦（仁心仁术）",
+        "weaponType": "",
+        "element": "GirlsFrontline",
+        "gender": "Female",
+        "region": "",
+        "rarity": 5,
+        "directory": "chars/Qiuhua",
+        "image": "Covers/Qiuhua_v02.png",
+        "pmx": "v02/GirlsFrontline QiuhuaSSR0101.pmx",
+        "base": "https://carlutic.github.io/girl_frontline7/"
+    },
+    {
+        "id": 80224,
+        "name": "Qiuhua",
+        "displayName": "秋桦（秋宴龙厨）",
+        "weaponType": "",
+        "element": "GirlsFrontline",
+        "gender": "Female",
+        "region": "",
+        "rarity": 5,
+        "directory": "chars/Qiuhua",
+        "image": "Covers/Qiuhua_v03.png",
+        "pmx": "v03/GirlsFrontline QiuhuaShopingMallReward.pmx",
+        "base": "https://carlutic.github.io/girl_frontline7/"
+    },
+    {
+        "id": 80225,
+        "name": "Qiuhua",
+        "displayName": "秋桦（休息室）",
+        "weaponType": "",
+        "element": "GirlsFrontline",
+        "gender": "Female",
+        "region": "",
+        "rarity": 5,
+        "directory": "chars/Qiuhua",
+        "image": "Covers/Qiuhua_v04.png",
+        "pmx": "v04/GirlsFrontline QiuHuaRestroom.pmx",
+        "base": "https://carlutic.github.io/girl_frontline7/"
+    }
+]
